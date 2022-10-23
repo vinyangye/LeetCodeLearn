@@ -14,6 +14,13 @@
       <change afterPath="$PROJECT_DIR$/../blog/src/main/java/com/vinyangy/blog/BlogApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/src/test/java/com/vinyangy/blog/BlogApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeLearn/mysolution/AddTwoNums.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeLearn/mysolution/AddTwoNums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeLearn/mysolution/LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeLearn/mysolution/LongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mysolution/AddTwoNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mysolution/AddTwoNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mysolution/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mysolution/LongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mysolution/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mysolution/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../workspace/AvatarIOS/AvatarIOS.xcodeproj/project.pbxproj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../workspace/AvatarIOS/AvatarIOS.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../workspace/AvatarIOS/AvatarIOS.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
@@ -66,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mysolution/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="20" selection-start-line="9" selection-start-column="8" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -75,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/solution/TwoSumSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+            <state relative-caret-position="60">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,19 +92,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q1480_SumOf1DArray/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-315">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mysolution/AddTwoNums.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="804">
+              <caret line="55" column="41" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="17" column="87" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mysolution/LongestSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="-194">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solution/LongestSubstringSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,23 +167,30 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/mysolution/Test.java" />
+        <option value="$PROJECT_DIR$/src/solution/LongestSubstringSolution.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/tt.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/LongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/AddTwoNums.java" />
         <option value="$PROJECT_DIR$/src/mysolution/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/solution/TwoSumSolution.java" />
-        <option value="$PROJECT_DIR$/src/mysolution/AddTwoNums.java" />
-        <option value="$PROJECT_DIR$/src/mysolution/LongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/PartitionLabels.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q1480_SumOf1DArray.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q1480_SumOf1DArray/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/BinarySearch.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="23" />
+    <option name="x" value="78" />
+    <option name="y" value="25" />
     <option name="width" value="1400" />
-    <option name="height" value="763" />
+    <option name="height" value="795" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -151,18 +210,6 @@
               <item name="LeetCodeLearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCodeLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mysolution" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="solution" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -174,9 +221,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560401882091" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1666527075660" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -190,7 +240,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestSubstring">
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="AddTwoNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mysolution.AddTwoNums" />
+      <module name="LeetCodeLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mysolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.BinarySearch" />
+      <module name="LeetCodeLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mysolution.LongestSubstring" />
       <module name="LeetCodeLearn" />
@@ -204,8 +280,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mysolution.TwoSum" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mysolution.Q1480_SumOf1DArray.Solution" />
+      <module name="LeetCodeLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mysolution.Q1480_SumOf1DArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mysolution.tt" />
       <module name="LeetCodeLearn" />
       <extension name="coverage">
         <pattern>
@@ -219,8 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.LongestSubstring" />
-        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.AddTwoNums" />
+        <item itemvalue="Application.tt" />
       </list>
     </recent_temporary>
   </component>
@@ -236,17 +328,33 @@
       <updated>1557987580858</updated>
       <workItem from="1557987585553" duration="10451000" />
       <workItem from="1560383342055" duration="3350000" />
+      <workItem from="1560470371889" duration="1690000" />
+      <workItem from="1561601642417" duration="633000" />
+      <workItem from="1562842592632" duration="23000" />
+      <workItem from="1590104232075" duration="796000" />
+      <workItem from="1590206759362" duration="1610000" />
+      <workItem from="1590363948544" duration="12000" />
+      <workItem from="1610162642146" duration="5648000" />
+      <workItem from="1611546514162" duration="3201000" />
+      <workItem from="1612235383810" duration="3822000" />
+      <workItem from="1613110020591" duration="406000" />
+      <workItem from="1613345858948" duration="325000" />
+      <workItem from="1613446767975" duration="171000" />
+      <workItem from="1617880005837" duration="1053000" />
+      <workItem from="1661327404453" duration="917000" />
+      <workItem from="1663501981215" duration="2720000" />
+      <workItem from="1666512419768" duration="7234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13801000" />
+    <option name="totallyTimeSpent" value="44062000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="23" width="1400" height="763" extended-state="0" />
+    <frame x="78" y="25" width="1400" height="795" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18114875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -256,7 +364,7 @@
       <window_info id="Learn" order="7" weight="0.3298969" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2175857" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28694403" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39940387" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -264,7 +372,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32935917" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32855093" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -282,17 +390,82 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/solution/LongestSubstringSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/PartitionLabels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q1480_SumOf1DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/LongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q1480_SumOf1DArray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/tt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/mysolution/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="20" selection-start-line="9" selection-start-column="8" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MySolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/solution/TwoSumSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        <state relative-caret-position="60">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -301,28 +474,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mysolution/AddTwoNums.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="804">
+          <caret line="55" column="41" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/LongestSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="41" column="28" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="41" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#385#404#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="17" column="87" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LeetCodeLearn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -3,10 +3,7 @@ package mysolution;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/**
- * @author yeyang
- * @Date 2019-06-13
- */
+
 public class LongestSubstring {
 
         public static int LengthOfLongestSubstring(String s) {

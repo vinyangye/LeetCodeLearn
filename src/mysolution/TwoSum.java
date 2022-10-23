@@ -1,9 +1,6 @@
 package mysolution;
 
-/**
- * @author yeyang
- * @Date 2019-05-16
- */
+
 public class TwoSum {
 
     public static int[] twoSum(int[] nums, int target) {
@@ -27,6 +24,10 @@ public class TwoSum {
         int[] r = twoSum(x, 0);
         System.out.println(r[0]+","+r[1]);
     }
+
+
+
+
 }
 
 /**
