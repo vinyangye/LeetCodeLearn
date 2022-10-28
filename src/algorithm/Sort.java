@@ -69,6 +69,55 @@ public class Sort {
     }
 
     public void QuickSort(int[] nums) {
-        
+
+
+    }
+
+    public void doQuickSort(int[] nums, int begin, int end) {
+        if (begin < end) {
+            int key = nums[begin];
+            int i  = begin, j = end;
+            while (i < j) {
+                while (i < j && nums[j] > key) {
+                    j--;
+                }
+                if (i < j) {
+                    nums[i] = nums[j];
+                    i++;
+                }
+            }
+        }
+    }
+
+    public void doQuickSort2(int[] nums) {
+        int left = 0;
+        int right = nums.length - 1;
+        if (left < right) {
+            quickSort2(nums, left, right);
+        }
+    }
+
+
+    public void quickSort2(int[] nums, int left, int right) {
+        if (left < right) {
+            int pivot = left;
+            int index = pivot + 1;
+
+            for (int i = index; i <= right; i++) {
+                if (nums[i] < nums[pivot]) {
+                    swap(nums, i, index);
+                    index++;
+                }
+            }
+            swap(nums, pivot, index - 1);
+            quickSort2(nums, index, right);
+            quickSort2(nums, left, index - 2);
+        }
+    }
+
+    public void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
