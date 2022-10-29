@@ -35,5 +35,6 @@ public class Test {
         heap.peek();
         System.out.println(heap.peek());
         System.out.println(heap);
+        System.out.println(8%2);
     }
 }
