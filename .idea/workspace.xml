@@ -71,18 +71,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/AddTwoNums.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="804">
-              <caret line="55" column="41" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithm/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="236">
@@ -145,11 +133,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mysolution/Q283_MoveZeroes/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="54" column="9" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="54" selection-end-column="9" />
+            <state relative-caret-position="156">
+              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q977_SquaresOfSortedArray/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -205,12 +202,13 @@
         <option value="$PROJECT_DIR$/src/mysolution/Test.java" />
         <option value="$PROJECT_DIR$/src/mysolution/Q414_ThirdMaxNum/Solution.java" />
         <option value="$PROJECT_DIR$/src/mysolution/Q283_MoveZeroes/Solution.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q977_SquaresOfSortedArray/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="218" />
-    <option name="y" value="56" />
+    <option name="x" value="308" />
+    <option name="y" value="84" />
     <option name="width" value="1153" />
     <option name="height" value="800" />
   </component>
@@ -249,14 +247,7 @@
               <item name="LeetCodeLearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mysolution" type="462c0819:PsiDirectoryNode" />
-              <item name="Q26_RemoveDuplicates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mysolution" type="462c0819:PsiDirectoryNode" />
-              <item name="Q283_MoveZeroes" type="462c0819:PsiDirectoryNode" />
+              <item name="Q977_SquaresOfSortedArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodeLearn" type="b2602c69:ProjectViewProjectNode" />
@@ -276,7 +267,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1667011056954" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1667021174576" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -398,15 +389,16 @@
       <workItem from="1617880005837" duration="1053000" />
       <workItem from="1661327404453" duration="917000" />
       <workItem from="1663501981215" duration="2720000" />
-      <workItem from="1666512419768" duration="35159000" />
+      <workItem from="1666512419768" duration="36664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71987000" />
+    <option name="totallyTimeSpent" value="73492000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="218" y="56" width="1153" height="800" extended-state="0" />
+    <frame x="308" y="84" width="1153" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.279928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -593,8 +585,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mysolution/Q283_MoveZeroes/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="54" column="9" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="54" selection-end-column="9" />
+        <state relative-caret-position="156">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q977_SquaresOfSortedArray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
         </state>
       </provider>
     </entry>
