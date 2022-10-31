@@ -71,32 +71,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/linkedlist/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+            <state relative-caret-position="150">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#656#665#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/Q283_MoveZeroes/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q707_DesignLinkedinList/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            <state relative-caret-position="100">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#752#753#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/Q977_SquaresOfSortedArray/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q206_ReverseLinkedList/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+            <state relative-caret-position="421">
+              <caret line="49" column="20" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="49" selection-end-column="20" />
+              <folding>
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q24_SwapNodesInPairs/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q3_LongestSubstring/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q414_ThirdMaxNum/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="62" selection-start-line="43" selection-start-column="8" selection-end-line="66" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1188#1197#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,40 +155,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructure/linkedlist/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-              <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q24_SwapNodesInPairs/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/Q203_RemoveLinkedListElements/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/Q707_DesignLinkedinList/MyLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-650">
-              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-              <folding>
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#677#678#0" expanded="true" />
-                <element signature="e#715#716#0" expanded="true" />
-                <element signature="e#752#753#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q206_ReverseLinkedList/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -156,20 +173,6 @@
                 <element signature="e#211#212#0" expanded="true" />
                 <element signature="e#240#241#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/Q203_RemoveLinkedListElements/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/Q59_SpiralMatrix2/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -215,13 +218,18 @@
         <option value="$PROJECT_DIR$/src/mysolution/Q203_RemoveLinkedListElements/Solution.java" />
         <option value="$PROJECT_DIR$/src/mysolution/Q707_DesignLinkedinList/ListNode.java" />
         <option value="$PROJECT_DIR$/src/mysolution/Q707_DesignLinkedinList/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q206_ReverseLinkedList/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q206_ReverseLinkedList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q24_SwapNodesInPairs/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q24_SwapNodesInPairs/Solution.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q3_LongestSubstring/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="209" />
-    <option name="y" value="25" />
-    <option name="width" value="1191" />
+    <option name="x" value="134" />
+    <option name="y" value="102" />
+    <option name="width" value="1177" />
     <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -259,7 +267,7 @@
               <item name="LeetCodeLearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mysolution" type="462c0819:PsiDirectoryNode" />
-              <item name="Q707_DesignLinkedinList" type="462c0819:PsiDirectoryNode" />
+              <item name="Q209_MinimiumSizeSubarraySum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,7 +280,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1667045152281" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1667212968939" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -281,6 +289,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mysolution.Q24_SwapNodesInPairs" />
+      <recent name="mysolution.Q206_ReverseLinkedList" />
       <recent name="mysolution.Q203_RemoveLinkedListElements" />
     </key>
   </component>
@@ -399,18 +409,18 @@
       <workItem from="1617880005837" duration="1053000" />
       <workItem from="1661327404453" duration="917000" />
       <workItem from="1663501981215" duration="2720000" />
-      <workItem from="1666512419768" duration="47161000" />
+      <workItem from="1666512419768" duration="58728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83989000" />
+    <option name="totallyTimeSpent" value="95556000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="209" y="25" width="1191" height="800" extended-state="0" />
+    <frame x="134" y="102" width="1177" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23498695" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23788546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -563,18 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/Q414_ThirdMaxNum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="62" selection-start-line="43" selection-start-column="8" selection-end-line="66" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1105#1114#0" expanded="true" />
-            <element signature="e#1188#1197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mysolution/Q26_RemoveDuplicates/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-149">
@@ -614,24 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/Q209_MinimiumSizeSubarraySum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/linkedlist/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mysolution/Q203_RemoveLinkedListElements/ListNode.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -655,13 +635,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mysolution/Q707_DesignLinkedinList/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-650">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state relative-caret-position="100">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="e#643#644#0" expanded="true" />
             <element signature="e#677#678#0" expanded="true" />
             <element signature="e#715#716#0" expanded="true" />
             <element signature="e#752#753#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/linkedlist/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q206_ReverseLinkedList/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q206_ReverseLinkedList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q24_SwapNodesInPairs/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q24_SwapNodesInPairs/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q414_ThirdMaxNum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="62" selection-start-line="43" selection-start-column="8" selection-end-line="66" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1188#1197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q209_MinimiumSizeSubarraySum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q3_LongestSubstring/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
