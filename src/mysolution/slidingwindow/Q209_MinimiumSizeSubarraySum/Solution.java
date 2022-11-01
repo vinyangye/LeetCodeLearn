@@ -1,4 +1,4 @@
-package mysolution.Q209_MinimiumSizeSubarraySum;
+package mysolution.slidingwindow.Q209_MinimiumSizeSubarraySum;
 
 /**
  * @author yeyang

@@ -22,19 +22,24 @@ public class Test {
     public static void main(String[] args) {
 //        int x = strStr("applle", "ll");
 //        System.out.println(x);
-        PriorityQueue<Integer> heap = new PriorityQueue<Integer>();
-        heap.add(2);
-        heap.add(6);
-        heap.add(1);
-//        heap.add(5);
-//        for (Integer i: heap){
-//            heap.poll();
-//            System.out.println(i);
-//        }
-        heap.poll();
-        heap.peek();
-        System.out.println(heap.peek());
-        System.out.println(heap);
-        System.out.println(8%2);
+//        PriorityQueue<Integer> heap = new PriorityQueue<Integer>();
+//        heap.add(2);
+//        heap.add(6);
+//        heap.add(1);
+////        heap.add(5);
+////        for (Integer i: heap){
+////            heap.poll();
+////            System.out.println(i);
+////        }
+//        heap.poll();
+//        heap.peek();
+//        System.out.println(heap.peek());
+//        System.out.println(heap);
+//        System.out.println(8%2);
+
+        String s = "ADOBECODEBANC";
+
+        System.out.println(s.substring(10, 12));
+
     }
 }

@@ -1,7 +1,6 @@
-package mysolution.Q3_LongestSubstring;
+package mysolution.slidingwindow.Q3_LongestSubstring;
 
 import java.util.HashMap;
-import java.util.HashSet;
 
 /**
  * @author yeyang
