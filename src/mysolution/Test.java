@@ -37,13 +37,15 @@ public class Test {
 //        System.out.println(heap.peek());
 //        System.out.println(heap);
 //        System.out.println(8%2);
-        int[] nums = {1, 2, 3,  4, 5};
+//        int[] nums = {1, 2, 3,  4, 5};
+//
+//        int[] temp = Arrays.copyOfRange(nums, 0, 5);
+//
+//        for (int i: temp) {
+//            System.out.println(i);
+//        }
 
-        int[] temp = Arrays.copyOfRange(nums, 0, 5);
-
-        for (int i: temp) {
-            System.out.println(i);
-        }
+        System.out.println(2/3);
 
 
 
