@@ -71,46 +71,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/Q75_SortColors/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/Q402_RemoveKDigits/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-              <folding>
-                <element signature="e#871#872#0" expanded="true" />
-                <element signature="e#936#937#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/Q402_RemoveKDigits/SolutionStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/Q200_NumberOfIslands/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mysolution/Q200_NumberOfIslands/Q305_NumberOfIslandsII/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -152,7 +112,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mysolution/Q146_LRUCache/LRUCache.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="645">
@@ -166,6 +126,51 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q295_FindMedianFromDataStream/MedianFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/slidingwindow/Q480_SlidingWindowMedian/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/slidingwindow/Q480_SlidingWindowMedian/SolutionTreeSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="19" column="102" lean-forward="true" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="102" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q215_KthLargestElementInArray/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -185,7 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/mysolution/Q27_RemoveElement/Solution.java" />
         <option value="$PROJECT_DIR$/src/mysolution/Q26_RemoveDuplicates/Solution.java" />
         <option value="$PROJECT_DIR$/src/mysolution/Q485_MaxConsecutiveOnes/Solution.java" />
@@ -236,12 +240,13 @@
         <option value="$PROJECT_DIR$/src/mysolution/Q125_ValidPalindrome/Solution.java" />
         <option value="$PROJECT_DIR$/src/mysolution/Q146_LRUCache/Solution.java" />
         <option value="$PROJECT_DIR$/src/mysolution/Q146_LRUCache/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q215_KthLargestElementInArray/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="117" />
-    <option name="y" value="428" />
+    <option name="x" value="305" />
+    <option name="y" value="273" />
     <option name="width" value="1177" />
     <option name="height" value="800" />
   </component>
@@ -280,14 +285,7 @@
               <item name="LeetCodeLearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mysolution" type="462c0819:PsiDirectoryNode" />
-              <item name="Q146_LRUCache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mysolution" type="462c0819:PsiDirectoryNode" />
-              <item name="Q346_MovingAverageFromDataStream" type="462c0819:PsiDirectoryNode" />
+              <item name="Q295_FindMedianFromDataStream" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodeLearn" type="b2602c69:ProjectViewProjectNode" />
@@ -295,6 +293,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mysolution" type="462c0819:PsiDirectoryNode" />
               <item name="Q1152_AnalyzeUsrWebsiteVisitPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mysolution" type="462c0819:PsiDirectoryNode" />
+              <item name="slidingwindow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mysolution" type="462c0819:PsiDirectoryNode" />
+              <item name="slidingwindow" type="462c0819:PsiDirectoryNode" />
+              <item name="Q480_SlidingWindowMedian" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,7 +320,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1667816516565" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1667824424017" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -437,15 +450,15 @@
       <workItem from="1617880005837" duration="1053000" />
       <workItem from="1661327404453" duration="917000" />
       <workItem from="1663501981215" duration="2720000" />
-      <workItem from="1666512419768" duration="90334000" />
+      <workItem from="1666512419768" duration="91346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127162000" />
+    <option name="totallyTimeSpent" value="128174000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="117" y="428" width="1177" height="800" extended-state="0" />
+    <frame x="305" y="273" width="1177" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32599118" />
@@ -484,13 +497,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/mysolution/Q26_RemoveDuplicates/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149">
-          <caret line="10" column="69" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mysolution/Q283_MoveZeroes/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -626,23 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/slidingwindow/Q480_SlidingWindowMedian/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/slidingwindow/Q480_SlidingWindowMedian/SolutionTreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mysolution/slidingwindow/Q480_SlidingWindowMedian/SolutionHeap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1022">
@@ -651,16 +640,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#405#414#0" expanded="true" />
             <element signature="e#477#486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/Q295_FindMedianFromDataStream/MedianFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -841,23 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/Q346_MovingAverageFromDataStream/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/Q346_MovingAverageFromDataStream/MovingAverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mysolution/Q125_ValidPalindrome/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -879,6 +841,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q346_MovingAverageFromDataStream/MovingAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q346_MovingAverageFromDataStream/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q295_FindMedianFromDataStream/MedianFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/slidingwindow/Q480_SlidingWindowMedian/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/slidingwindow/Q480_SlidingWindowMedian/SolutionTreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="102" lean-forward="true" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q215_KthLargestElementInArray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
