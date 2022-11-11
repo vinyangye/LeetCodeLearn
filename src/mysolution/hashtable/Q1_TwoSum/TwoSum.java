@@ -1,4 +1,4 @@
-package mysolution;
+package mysolution.hashtable.Q1_TwoSum;
 
 
 public class TwoSum {
