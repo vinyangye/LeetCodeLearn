@@ -1,4 +1,4 @@
-package mysolution.Q346_MovingAverageFromDataStream;
+package mysolution.queue.Q346_MovingAverageFromDataStream;
 
 import java.util.LinkedList;
 import java.util.Queue;

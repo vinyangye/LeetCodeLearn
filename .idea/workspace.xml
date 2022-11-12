@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="343eb9b5-e48a-4c7b-842c-31c45dbd78b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mysolution/hashtable/Q217_ContainsDuplicate/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mysolution/stack/Q150_EvaluateReversePolishNotation/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mysolution/stack/Q682_BaseballGame/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mysolution/stack/temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysolution/Q225_ImplementStackUsingQueue/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysolution/Q232_ImplementQueueWithStacks/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysolution/Q387_FirstUniqueCharInString/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysolution/Q622_DesignCircularQueue/MyCircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysolution/queue/Q933_NumberOfRecentCalls/RecentCounter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ReadWriteCSV/ReadWriteCSV/Student.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ReadWriteCSV/ReadWriteCSV/packages.config" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/.gitignore" afterDir="false" />
@@ -21,7 +22,8 @@
       <change afterPath="$PROJECT_DIR$/../../workspace/CodeChallenge/SearchApplication" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../workspace/ToyRobot/src/main/java/com/codechallenge/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mysolution/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mysolution/hashtable/Q1_TwoSum/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mysolution/Q346_MovingAverageFromDataStream/MovingAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mysolution/queue/Q346_MovingAverageFromDataStream/MovingAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mysolution/Q346_MovingAverageFromDataStream/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mysolution/queue/Q346_MovingAverageFromDataStream/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../workspace/AvatarIOS/AvatarIOS.xcodeproj/project.pbxproj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../workspace/AvatarIOS/AvatarIOS.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../workspace/AvatarIOS/AvatarIOS.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
@@ -72,42 +74,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/linkedlist/twopointers/Q141_LinkedListCycle/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/linkedlist/Q21_MergeTwoSortedLists/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/linkedlist/Q21_MergeTwoSortedLists/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/linkedlist/Q203_RemoveLinkedListElements/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-235">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mysolution/linkedlist/twopointers/Q160_IntersectionOfTwoLinkedLists/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="625">
@@ -135,15 +101,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mysolution/stack/temp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mysolution/stack/Q682_BaseballGame/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="122">
@@ -152,11 +109,86 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mysolution/stack/Q150_EvaluateReversePolishNotation/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/queue/Q933_NumberOfRecentCalls/RecentCounter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q387_FirstUniqueCharInString/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#215#235#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q232_ImplementQueueWithStacks/MyQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding>
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q225_ImplementStackUsingQueue/MyStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mysolution/Q622_DesignCircularQueue/MyCircularQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+              <folding>
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#939#940#0" expanded="true" />
+                <element signature="e#970#971#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,11 +208,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/mysolution/Q206_ReverseLinkedList/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/mysolution/Q206_ReverseLinkedList/Solution.java" />
-        <option value="$PROJECT_DIR$/src/mysolution/Q24_SwapNodesInPairs/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/mysolution/Q24_SwapNodesInPairs/Solution.java" />
-        <option value="$PROJECT_DIR$/src/mysolution/Q3_LongestSubstring/Solution.java" />
         <option value="$PROJECT_DIR$/src/mysolution/Q707_DesignLinkedinList/ListNode.java" />
         <option value="$PROJECT_DIR$/src/mysolution/Q76_MinimumWindowSubstring/Solution.java" />
         <option value="$PROJECT_DIR$/src/mysolution/slidingwindow/Q209_MinimiumSizeSubarraySum/Solution.java" />
@@ -227,12 +254,17 @@
         <option value="$PROJECT_DIR$/src/mysolution/hashtable/Q1_TwoSum/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/mysolution/stack/Q682_BaseballGame/Solution.java" />
         <option value="$PROJECT_DIR$/src/mysolution/stack/Q150_EvaluateReversePolishNotation/Solution.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q933_NumberOfRecentCalls/RecentCounter.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q387_FirstUniqueCharInString/Solution.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q232_ImplementQueueWithStacks/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q225_ImplementStackUsingQueue/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/mysolution/Q622_DesignCircularQueue/MyCircularQueue.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="407" />
-    <option name="y" value="91" />
+    <option name="x" value="334" />
+    <option name="y" value="276" />
     <option name="width" value="1177" />
     <option name="height" value="800" />
   </component>
@@ -266,7 +298,7 @@
               <item name="LeetCodeLearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mysolution" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -278,7 +310,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1668165063622" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1668254459140" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -411,15 +443,15 @@
       <workItem from="1666512419768" duration="93369000" />
       <workItem from="1667973544613" duration="432000" />
       <workItem from="1667987295840" duration="802000" />
-      <workItem from="1668146031493" duration="2617000" />
+      <workItem from="1668146031493" duration="4326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134048000" />
+    <option name="totallyTimeSpent" value="135757000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="407" y="91" width="1177" height="800" extended-state="0" />
+    <frame x="334" y="276" width="1177" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37004405" />
@@ -490,70 +522,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/mysolution/slidingwindow/Q480_SlidingWindowMedian/SolutionHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1022">
-          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#405#414#0" expanded="true" />
-            <element signature="e#477#486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/RunLengthEncodingAndDecoding/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/AddTwoNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/nsum/temp.java" />
-    <entry file="file://$PROJECT_DIR$/src/mysolution/nsum/TwoSumModify/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/nsum/Q167_TwoSumSortedArray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/nsum/Q15_ThreeSum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/nsum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mysolution/slidingwindow/Q3_LongestSubstring/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -665,7 +633,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/Q346_MovingAverageFromDataStream/MovingAverage.java">
+    <entry file="file://$PROJECT_DIR$/src/mysolution/queue/Q346_MovingAverageFromDataStream/MovingAverage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
           <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
@@ -675,7 +643,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysolution/Q346_MovingAverageFromDataStream/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/mysolution/queue/Q346_MovingAverageFromDataStream/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
@@ -886,6 +854,88 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/queue/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q387_FirstUniqueCharInString.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/queue/Q933_NumberOfRecentCalls/RecentCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q387_FirstUniqueCharInString/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q232_ImplementQueueWithStacks/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q232_ImplementQueueWithStacks/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q225_ImplementStackUsingQueue/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysolution/Q622_DesignCircularQueue/MyCircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding>
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
